@@ -1,0 +1,6 @@
+@PetApiSwagger_HostAddress = http://localhost:5150
+
+GET {{PetApiSwagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
